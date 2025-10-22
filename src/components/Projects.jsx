@@ -9,7 +9,6 @@ export default function Projects() {
       stack: ["React", "Node.js", "MongoDB", "Android (MVVM)", "Docker"],
       links: [
         { label: "GitHub Repo", url: "https://github.com/TalyaCohen1/Gmail_Project" },
-        { label: "Demo (if available)", url: "#" },
       ],
       image: smail,
     },

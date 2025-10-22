@@ -5,7 +5,6 @@ export default function About() {
     <div className="about-page">
       <img src={profile} alt="Talya Cohen" className="about-img" />
       <div className="about-text">
-        <h2>About Me 🌼</h2>
         <p>
           Hey there! I'm <strong>Talya Cohen</strong>, a Computer Science student at Bar-Ilan University.
           I’m passionate about building impactful software — from full-stack web apps to low-level systems.
@@ -17,6 +16,7 @@ export default function About() {
         <blockquote>
           “Turning ideas into code and code into impact.”
         </blockquote>
+                <a href="#projects" className="btn">View My Projects</a>
         <p>
           💬 Connect with me:
           <a href="https://github.com/TalyaCohen1" target="_blank"> GitHub</a> •
